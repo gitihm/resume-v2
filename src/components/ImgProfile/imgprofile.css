@@ -1,0 +1,10 @@
+.imgprofile{
+    position: absolute;
+    border: 3px solid #fff;
+    top: 200px;
+    left: 50px;
+    border-radius: 50%;
+}
+.circle{
+    border-radius: 50%;
+}

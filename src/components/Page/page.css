@@ -1,0 +1,24 @@
+.setcenter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top:50vh;
+    margin-left:15%;
+    margin-right:15%;
+    background-color: '#ECECEC';
+    padding: '30px';
+    
+}
+.sizeCard{
+    width: 100%;
+    border-radius: 20px;
+    border: 1px solid rgb(201, 199, 199);
+}
+.bg{
+    width: 100%;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
